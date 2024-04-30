@@ -1,3 +1,7 @@
+# 犬の骨格推定
+
+ultralyticsの学習済みモデルであるyolov8m-pose.ptを用いて犬の骨格推定を行うモデルに転移学習する。再学習の際に使用するデータセットは「animal-pose」とする。
+
 # 環境構築
 
 ・minicondaのインストール(windows)
